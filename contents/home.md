@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Ziyang Lu received the B.S. degree in electrical engineering from the University of Liverpool, Liverpool, U.K., in 2016, and the M.S. degree in electrical engineering in 2018 from Syracuse University, Syracuse, NY, USA, where he is currently working toward the Ph.D. degree with the Department of Electrical Engineering and Computer Science. His research interests include the areas of wireless communication and machine learning.
 
 #### Email
-sli[at]cumt.edu.cn
+zlu112[at]syr.edu
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.S.,  Electrical Engineering, Syracuse University, Syracuse, NY, United States\
+BEng., Electrical and Electronics Engineering, The University of Liverpool, Liverpool, United Kingdom 2014-2016\
+BEng., Electrical and Electronics Engineering, Xi'an Jiaotong Liverpool University, Suzhou, China 2012-2014
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+
 
