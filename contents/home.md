@@ -7,7 +7,8 @@ Ziyang Lu received the B.S. degree in electrical engineering from the Universit
 zlu112[at]syr.edu
 
 #### Education
-M.S.,  Electrical Engineering, Syracuse University, Syracuse, NY, United States\
+Ph.D.,  Electrical and Computer Engineering, Syracuse University, Syracuse, NY, United States 2018-2025\
+M.S.,  Electrical Engineering, Syracuse University, Syracuse, NY, United States 2016-2018\
 BEng., Electrical and Electronics Engineering, The University of Liverpool, Liverpool, United Kingdom 2014-2016\
 BEng., Electrical and Electronics Engineering, Xi'an Jiaotong Liverpool University, Suzhou, China 2012-2014
 

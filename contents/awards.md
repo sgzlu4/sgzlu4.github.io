@@ -1,13 +1,6 @@
-- National Scholarship of Graduate Student, 2024.
+- Second Place Poster Award, ECS Research Day, Syracuse University (2023)
 
-- First-prize Scholarship of CUMT, 2024.
+- Syracuse CASE Research Assistantship (2023)
 
-- First-prize Scholarship of CUMT, 2023.
+- Syracuse Graduate Fellowship (2018-2020)
 
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
