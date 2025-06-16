@@ -12,5 +12,8 @@ BEng., Electrical and Electronics Engineering, The University of Liverpool, Live
 BEng., Electrical and Electronics Engineering, Xi'an Jiaotong Liverpool University, Suzhou, China 2012-2014
 
 #### Research Interests
+Wireless Communication\
+Deep Reinforcement Learning\
+Cognitive Radar
 
 
